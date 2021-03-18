@@ -1,0 +1,19 @@
+{'cms': ['Drupal'], 'programming-languages': ['PHP'], 'web-servers': ['Nginx'], 'advertising-networks': ['Google AdSense'], 'web-frameworks': ['Twitter Bootstrap'], 'javascript-frameworks': ['jQuery']}
+{'web-servers': ['Apache'], 'advertising-networks': ['Google AdSense'], 'ecommerce': ['WooCommerce'], 'cms': ['WordPress'], 'programming-languages': ['PHP'], 'blogs': ['PHP', 'WordPress'], 'javascript-frameworks': ['jQuery']}
+{'cdn': ['EdgeCast'], 'web-frameworks': ['Twitter Bootstrap'], 'javascript-frameworks': ['jQuery'], 'javascript-graphics': ['three.js']}
+{'cdn': ['Akamai'], 'web-servers': ['Nginx'], 'advertising-networks': ['DoubleClick for Publishers (DFP)', 'Google AdSense'], 'javascript-frameworks': ['RequireJS', 'jQuery'], 'cms': ['WordPress'], 'programming-languages': ['PHP'], 'blogs': ['PHP', 'WordPress'], 'cache-tools': ['WordPress Super Cache'], 'marketing-automation': ['Yoast SEO']}
+{'web-servers': ['IIS'], 'operating-systems': ['Windows Server'], 'analytics': ['comScore'], 'javascript-frameworks': ['jQuery']}
+{'web-servers': ['Apache Traffic Server'], 'javascript-graphics': ['D3'], 'javascript-frameworks': ['Prototype', 'React']}
+{'javascript-frameworks': ['Prototype', 'jQuery']}
+{'web-servers': ['Nginx'], 'tag-managers': ['Google Tag Manager'], 'analytics': ['comScore']}
+{}
+{}
+{'cdn': ['CloudFlare'], 'analytics': ['Optimizely']}
+{'cdn': ['Akamai'], 'web-servers': ['Nginx'], 'advertising-networks': ['DoubleClick for Publishers (DFP)'], 'tag-managers': ['Google Tag Manager']}
+{'web-servers': ['Nginx']}
+{}
+{'web-servers': ['OpenResty', 'Nginx'], 'programming-languages': ['Lua']}
+{'web-servers': ['Nginx'], 'font-scripts': ['Google Font API'], 'ecommerce': ['WooCommerce'], 'cms': ['WordPress'], 'programming-languages': ['PHP'], 'blogs': ['PHP', 'WordPress']}
+{'cdn': ['Akamai'], 'web-servers': ['Apache'], 'operating-systems': ['UNIX'], 'cms': ['Adobe CQ5'], 'programming-languages': ['Java'], 'font-scripts': ['Google Font API'], 'tag-managers': ['Google Tag Manager']}
+{'javascript-graphics': ['Javascript Infovis Toolkit'], 'javascript-frameworks': ['RequireJS']}
+{'programming-languages': ['Java'], 'video-players': ['YouTube']}

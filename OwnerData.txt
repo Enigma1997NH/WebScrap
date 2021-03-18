@@ -1,0 +1,836 @@
+{
+  "domain_name": [
+    "PROGRAMIZ.COM",
+    "programiz.com"
+  ],
+  "registrar": "NAMECHEAP INC",
+  "whois_server": "whois.namecheap.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-10-06 08:20:23",
+    "2020-10-06 08:20:23.150000"
+  ],
+  "creation_date": "2011-11-05 17:52:04",
+  "expiration_date": "2021-11-05 18:52:04",
+  "name_servers": [
+    "NS1.DIGITALOCEAN.COM",
+    "NS2.DIGITALOCEAN.COM",
+    "NS3.DIGITALOCEAN.COM",
+    "ns1.digitalocean.com",
+    "ns2.digitalocean.com",
+    "ns3.digitalocean.com"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": "abuse@namecheap.com",
+  "dnssec": "unsigned",
+  "name": "Redacted for Privacy Purposes",
+  "org": "Redacted for Privacy Purposes",
+  "address": "Redacted for Privacy Purposes",
+  "city": "Redacted for Privacy Purposes",
+  "state": "Bagmati",
+  "zipcode": "Redacted for Privacy Purposes",
+  "country": "NP"
+}
+{
+  "domain_name": "AUTHORADITIAGARWAL.COM",
+  "registrar": "TUCOWS, INC.",
+  "whois_server": "whois.tucows.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-24 08:49:23",
+    "2020-09-24T08:49:23"
+  ],
+  "creation_date": [
+    "2017-10-09 02:16:50",
+    "2017-10-09T02:16:50"
+  ],
+  "expiration_date": [
+    "2021-10-09 02:16:50",
+    "2021-10-09T02:16:50"
+  ],
+  "name_servers": [
+    "NS.INMOTIONHOSTING.COM",
+    "NS2.INMOTIONHOSTING.COM",
+    "ns.inmotionhosting.com",
+    "ns2.inmotionhosting.com"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": [
+    "domainabuse@tucows.com",
+    "support@inmotionhosting.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "Arizona",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "US"
+}
+{
+  "domain_name": "TUTORIALSPOINT.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-21 07:47:16",
+    "2020-09-21 00:47:16"
+  ],
+  "creation_date": [
+    "2006-09-30 07:23:20",
+    "2006-09-30 02:23:20"
+  ],
+  "expiration_date": [
+    "2025-09-30 07:23:20",
+    "2025-09-30 02:23:20"
+  ],
+  "name_servers": [
+    "PDNS13.DOMAINCONTROL.COM",
+    "PDNS14.DOMAINCONTROL.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Tutorials Point India Limited",
+  "address": null,
+  "city": null,
+  "state": "Andhra Pradesh",
+  "zipcode": null,
+  "country": "IN"
+}
+{
+  "domain_name": "GEEKSFORGEEKS.ORG",
+  "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "whois_server": "whois.publicdomainregistry.com",
+  "referral_url": null,
+  "updated_date": [
+    "2018-01-29 08:59:40",
+    "2018-01-29 09:03:43"
+  ],
+  "creation_date": "2009-03-19 06:08:55",
+  "expiration_date": "2023-03-19 06:08:55",
+  "name_servers": [
+    "NS-1520.AWSDNS-62.ORG",
+    "NS-1569.AWSDNS-04.CO.UK",
+    "NS-245.AWSDNS-30.COM",
+    "NS-869.AWSDNS-44.NET",
+    "ns-1520.awsdns-62.org",
+    "ns-1569.awsdns-04.co.uk",
+    "ns-245.awsdns-30.com",
+    "ns-869.awsdns-44.net"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse-contact@publicdomainregistry.com",
+    "contact@privacyprotect.org"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "Domain Admin",
+  "org": "Privacy Protect, LLC (PrivacyProtect.org)",
+  "address": "10 Corporate Drive",
+  "city": "Burlington",
+  "state": "MA",
+  "zipcode": "01803",
+  "country": "US"
+}
+{
+  "domain_name": "STACKOVERFLOW.COM",
+  "registrar": "Name.com, Inc.",
+  "whois_server": "whois.name.com",
+  "referral_url": null,
+  "updated_date": "2021-01-10 16:56:34",
+  "creation_date": "2003-12-26 19:18:07",
+  "expiration_date": "2022-02-02 11:59:59",
+  "name_servers": [
+    "NS-1033.AWSDNS-01.ORG",
+    "NS-358.AWSDNS-44.COM",
+    "NS-CLOUD-E1.GOOGLEDOMAINS.COM",
+    "NS-CLOUD-E2.GOOGLEDOMAINS.COM",
+    "ns-1033.awsdns-01.org",
+    "ns-358.awsdns-44.com",
+    "ns-cloud-e1.googledomains.com",
+    "ns-cloud-e2.googledomains.com"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": "abuse@name.com",
+  "dnssec": [
+    "unsigned",
+    "unSigned"
+  ],
+  "name": "Sysadmin Team",
+  "org": "Stack Exchange, Inc.",
+  "address": "110 William St , Floor 28",
+  "city": "New York",
+  "state": "NY",
+  "zipcode": "10038",
+  "country": "US"
+}
+{
+  "domain_name": [
+    "YAHOO.COM",
+    "yahoo.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-12-18 13:37:09",
+    "2020-07-30 11:35:29-07:00"
+  ],
+  "creation_date": [
+    "1995-01-18 05:00:00",
+    "1995-01-18 00:00:00-08:00"
+  ],
+  "expiration_date": [
+    "2023-01-19 05:00:00",
+    "2023-01-18 21:00:00-08:00"
+  ],
+  "name_servers": [
+    "NS1.YAHOO.COM",
+    "NS2.YAHOO.COM",
+    "NS3.YAHOO.COM",
+    "NS4.YAHOO.COM",
+    "NS5.YAHOO.COM",
+    "ns3.yahoo.com",
+    "ns4.yahoo.com",
+    "ns5.yahoo.com",
+    "ns2.yahoo.com",
+    "ns1.yahoo.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "domain-admin@oath.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Admin",
+  "org": "Oath Inc.",
+  "address": "22000 AOL Way",
+  "city": "Dulles",
+  "state": "VA",
+  "zipcode": "20166",
+  "country": "US"
+}
+{
+  "domain_name": "amazon.in",
+  "registrar": "MarkMonitor Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "registrar_iana": "292",
+  "updated_date": "2019-05-12 18:45:37",
+  "creation_date": "2005-02-11 11:14:14",
+  "expiration_date": "2024-02-11 11:14:14",
+  "name_servers": [
+    "ns2.p31.dynect.net",
+    "ns1.p31.dynect.net",
+    "pdns1.ultradns.net",
+    "pdns6.ultradns.co.uk",
+    "pdns2.ultradns.net",
+    "pdns4.ultradns.org",
+    "pdns5.ultradns.info",
+    "pdns3.ultradns.org"
+  ],
+  "organization": "Amazon Technologies, Inc.",
+  "state": "NV",
+  "status": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": null,
+  "country": "US",
+  "dnssec": "unsigned"
+}
+{
+  "domain_name": "INDIATIMES.COM",
+  "registrar": "TUCOWS, INC.",
+  "whois_server": "whois.tucows.com",
+  "referral_url": null,
+  "updated_date": [
+    "2021-03-11 00:34:07",
+    "2021-03-11T00:34:07"
+  ],
+  "creation_date": [
+    "1996-11-22 05:00:00",
+    "1996-11-22T05:00:00"
+  ],
+  "expiration_date": [
+    "2021-11-21 05:00:00",
+    "2021-11-21T05:00:00"
+  ],
+  "name_servers": [
+    "A1-127.AKAM.NET",
+    "A13-64.AKAM.NET",
+    "A2-65.AKAM.NET",
+    "A26-66.AKAM.NET",
+    "A9-64.AKAM.NET",
+    "a1-127.akam.net",
+    "a13-64.akam.net",
+    "a26-66.akam.net",
+    "a2-65.akam.net",
+    "a9-64.akam.net"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "emails": [
+    "domainabuse@tucows.com",
+    "Corp.Domains@timesinternet.in"
+  ],
+  "dnssec": "unsigned",
+  "name": "REDACTED FOR PRIVACY",
+  "org": "REDACTED FOR PRIVACY",
+  "address": "REDACTED FOR PRIVACY",
+  "city": "REDACTED FOR PRIVACY",
+  "state": "ON",
+  "zipcode": "REDACTED FOR PRIVACY",
+  "country": "CA"
+}
+{
+  "domain_name": "INSTAGRAM.COM",
+  "registrar": "RegistrarSafe, LLC",
+  "whois_server": "whois.registrarsafe.com",
+  "referral_url": null,
+  "updated_date": "2018-03-01 19:43:29",
+  "creation_date": "2004-06-04 13:37:18",
+  "expiration_date": "2027-06-04 13:37:18",
+  "name_servers": [
+    "NS-1349.AWSDNS-40.ORG",
+    "NS-2016.AWSDNS-60.CO.UK",
+    "NS-384.AWSDNS-48.COM",
+    "NS-868.AWSDNS-44.NET"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited"
+  ],
+  "emails": [
+    "abusecomplaints@registrarsafe.com",
+    "domain@fb.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Admin",
+  "org": "Instagram LLC",
+  "address": "1601 Willow Rd",
+  "city": "Menlo Park",
+  "state": "CA",
+  "zipcode": "94025",
+  "country": "US"
+}
+{
+  "domain_name": [
+    "OFFICE.COM",
+    "office.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-06-29 21:23:11",
+    "2021-03-18 02:32:45-07:00"
+  ],
+  "creation_date": [
+    "1999-04-20 04:00:00",
+    "1999-04-19 21:00:00-07:00"
+  ],
+  "expiration_date": [
+    "2021-04-20 04:00:00",
+    "2021-04-19 21:00:00-07:00"
+  ],
+  "name_servers": [
+    "NS1-32.AZURE-DNS.COM",
+    "NS2-32.AZURE-DNS.NET",
+    "NS3-32.AZURE-DNS.ORG",
+    "NS4-32.AZURE-DNS.INFO",
+    "NSE12.O365FILTERING.COM",
+    "NSE13.O365FILTERING.COM",
+    "NSE21.O365FILTERING.COM",
+    "NSE24.O365FILTERING.COM",
+    "nse21.o365filtering.com",
+    "nse24.o365filtering.com",
+    "ns2-32.azure-dns.net",
+    "ns3-32.azure-dns.org",
+    "ns1-32.azure-dns.com",
+    "nse13.o365filtering.com",
+    "ns4-32.azure-dns.info",
+    "nse12.o365filtering.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "domains@microsoft.com",
+    "msnhst@microsoft.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Administrator",
+  "org": "Microsoft Corporation",
+  "address": "One Microsoft Way,",
+  "city": "Redmond",
+  "state": "WA",
+  "zipcode": "98052",
+  "country": "US"
+}
+{
+  "domain_name": [
+    "MEDIUM.COM",
+    "medium.com"
+  ],
+  "registrar": "Amazon Registrar, Inc.",
+  "whois_server": "whois.registrar.amazon.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-04-21 22:03:55",
+    "2020-04-21 22:03:55.747000"
+  ],
+  "creation_date": "1998-05-27 04:00:00",
+  "expiration_date": "2021-05-26 04:00:00",
+  "name_servers": [
+    "ALINA.NS.CLOUDFLARE.COM",
+    "KIP.NS.CLOUDFLARE.COM",
+    "alina.ns.cloudflare.com",
+    "kip.ns.cloudflare.com"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "renewPeriod https://icann.org/epp#renewPeriod"
+  ],
+  "emails": [
+    "abuse@amazonaws.com",
+    "owner-4971675@medium.com.whoisprivacyservice.org",
+    "admin-4971675@medium.com.whoisprivacyservice.org",
+    "tech-4971675@medium.com.whoisprivacyservice.org"
+  ],
+  "dnssec": "unsigned",
+  "name": "On behalf of medium.com owner",
+  "org": "Whois Privacy Service",
+  "address": "P.O. Box 81226",
+  "city": "Seattle",
+  "state": "WA",
+  "zipcode": "98108-1226",
+  "country": "US"
+}
+{
+  "domain_name": "NAUKRI.COM",
+  "registrar": "Network Solutions, LLC",
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-03-28 15:08:12",
+    "2020-03-28 15:09:12"
+  ],
+  "creation_date": "1997-03-27 05:00:00",
+  "expiration_date": "2030-03-28 04:00:00",
+  "name_servers": [
+    "A1-14.AKAM.NET",
+    "A12-65.AKAM.NET",
+    "A13-66.AKAM.NET",
+    "A16-67.AKAM.NET",
+    "A24-64.AKAM.NET",
+    "A3-65.AKAM.NET"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse@web.com",
+    "jb6pr8st4va@networksolutionsprivateregistration.com",
+    "v73g43ny8ty@networksolutionsprivateregistration.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "PERFECT PRIVACY, LLC",
+  "org": null,
+  "address": "5335 Gate Parkway care of Network Solutions PO Box 459",
+  "city": "Jacksonville",
+  "state": "FL",
+  "zipcode": "32256",
+  "country": "US"
+}
+{
+  "domain_name": "irctc.co.in",
+  "registrar": "Net 4 India Limited",
+  "registrar_url": "http://www.net4.in",
+  "registrar_iana": "1007",
+  "updated_date": "2020-09-27 16:11:52",
+  "creation_date": "2002-06-04 19:48:17",
+  "expiration_date": "2021-06-04 19:48:17",
+  "name_servers": [
+    "ns1.rcil.gov.in",
+    "ns2.rcil.gov.in"
+  ],
+  "organization": "Indian Railway Catering and Tourism Corporation Ltd",
+  "state": "DL",
+  "status": "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+  "emails": null,
+  "country": "IN",
+  "dnssec": "unsigned"
+}
+{
+  "domain_name": "JUSTDIAL.COM",
+  "registrar": "GoDaddy.com, LLC",
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2017-08-31 02:50:46",
+    "2020-04-13 14:37:31"
+  ],
+  "creation_date": [
+    "1997-11-14 05:00:00",
+    "1997-11-14 00:00:00"
+  ],
+  "expiration_date": [
+    "2026-11-13 05:00:00",
+    "2026-11-13 00:00:00"
+  ],
+  "name_servers": [
+    "A1-246.AKAM.NET",
+    "A13-65.AKAM.NET",
+    "A14-66.AKAM.NET",
+    "A18-67.AKAM.NET",
+    "A24-64.AKAM.NET",
+    "A3-65.AKAM.NET"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": [
+    "abuse@godaddy.com",
+    "JUSTDIAL.COM@domainsbyproxy.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Registration Private",
+  "org": "Domains By Proxy, LLC",
+  "address": [
+    "DomainsByProxy.com",
+    "14455 N. Hayden Road"
+  ],
+  "city": "Scottsdale",
+  "state": "Arizona",
+  "zipcode": "85260",
+  "country": "US"
+}
+{
+  "domain_name": [
+    "TUMBLR.COM",
+    "tumblr.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-12-19 16:59:23",
+    "2019-12-19 10:21:17-08:00"
+  ],
+  "creation_date": [
+    "2006-06-08 22:11:40",
+    "2006-06-08 15:11:40-07:00"
+  ],
+  "expiration_date": [
+    "2023-06-08 22:11:40",
+    "2023-06-08 15:11:40-07:00"
+  ],
+  "name_servers": [
+    "NS1.TUMBLR.COM",
+    "NS2.TUMBLR.COM",
+    "NS3.TUMBLR.COM",
+    "NS4.TUMBLR.COM",
+    "ns1.tumblr.com",
+    "ns2.tumblr.com",
+    "ns3.tumblr.com",
+    "ns4.tumblr.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Automattic, Inc.",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "zipcode": null,
+  "country": "US"
+}
+{
+  "domain_name": [
+    "WORDPRESS.COM",
+    "wordpress.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-02-01 10:18:28",
+    "2020-02-01 02:18:28-08:00"
+  ],
+  "creation_date": [
+    "2000-03-03 12:13:23",
+    "2000-03-03 04:13:23-08:00"
+  ],
+  "expiration_date": [
+    "2022-03-03 12:13:23",
+    "2022-03-03 00:00:00-08:00"
+  ],
+  "name_servers": [
+    "NS1.WORDPRESS.COM",
+    "NS2.WORDPRESS.COM",
+    "NS3.WORDPRESS.COM",
+    "NS4.WORDPRESS.COM",
+    "ns3.wordpress.com",
+    "ns2.wordpress.com",
+    "ns4.wordpress.com",
+    "ns1.wordpress.com"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Automattic, Inc.",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "zipcode": null,
+  "country": "US"
+}
+{
+  "domain_name": "MANORAMAONLINE.COM",
+  "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "whois_server": "whois.publicdomainregistry.com",
+  "referral_url": null,
+  "updated_date": [
+    "2017-03-02 12:58:12",
+    "2017-03-02 12:58:13"
+  ],
+  "creation_date": [
+    "2001-07-24 06:58:48",
+    "2001-07-24 07:58:23"
+  ],
+  "expiration_date": "2026-07-24 06:58:48",
+  "name_servers": [
+    "A1-168.AKAM.NET",
+    "A13-65.AKAM.NET",
+    "A16-66.AKAM.NET",
+    "A20-67.AKAM.NET",
+    "A6-64.AKAM.NET",
+    "A7-65.AKAM.NET",
+    "a1-168.akam.net",
+    "a13-65.akam.net",
+    "a16-66.akam.net",
+    "a20-67.akam.net",
+    "a6-64.akam.net",
+    "a7-65.akam.net"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "abuse-contact@publicdomainregistry.com",
+    "support@manoramaonline.com"
+  ],
+  "dnssec": [
+    "unsigned",
+    "Unsigned"
+  ],
+  "name": "V. V. Jacob",
+  "org": "Malayala Manorama",
+  "address": "K. K. Road",
+  "city": "Kottayam",
+  "state": "Kerala",
+  "zipcode": "686001",
+  "country": "IN"
+}
+{
+  "domain_name": "WHATSAPP.COM",
+  "registrar": "RegistrarSafe, LLC",
+  "whois_server": "whois.registrarsafe.com",
+  "referral_url": null,
+  "updated_date": "2021-02-11 21:34:56",
+  "creation_date": "2008-09-04 12:39:12",
+  "expiration_date": "2027-09-04 12:39:12",
+  "name_servers": [
+    "A.NS.WHATSAPP.NET",
+    "B.NS.WHATSAPP.NET",
+    "C.NS.WHATSAPP.NET",
+    "D.NS.WHATSAPP.NET"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited"
+  ],
+  "emails": [
+    "abusecomplaints@registrarsafe.com",
+    "domain@fb.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Domain Admin",
+  "org": "WhatsApp LLC",
+  "address": "1601 Willow Rd",
+  "city": "Menlo Park",
+  "state": "CA",
+  "zipcode": "94025",
+  "country": "US"
+}
+{
+  "domain_name": [
+    "LINKEDIN.COM",
+    "linkedin.com"
+  ],
+  "registrar": "MarkMonitor, Inc.",
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2020-09-01 17:16:55",
+    "2020-09-01 10:17:28-07:00"
+  ],
+  "creation_date": [
+    "2002-11-02 15:38:11",
+    "2002-11-02 07:38:11-08:00"
+  ],
+  "expiration_date": [
+    "2022-11-02 15:38:11",
+    "2022-11-02 00:00:00-07:00"
+  ],
+  "name_servers": [
+    "DNS1.P09.NSONE.NET",
+    "DNS2.P09.NSONE.NET",
+    "DNS3.P09.NSONE.NET",
+    "DNS4.P09.NSONE.NET",
+    "NS1.P43.DYNECT.NET",
+    "NS2.P43.DYNECT.NET",
+    "NS3.P43.DYNECT.NET",
+    "NS4.P43.DYNECT.NET",
+    "ns2.p43.dynect.net",
+    "dns3.p09.nsone.net",
+    "dns1.p09.nsone.net",
+    "dns2.p09.nsone.net",
+    "dns4.p09.nsone.net",
+    "ns3.p43.dynect.net",
+    "ns4.p43.dynect.net",
+    "ns1.p43.dynect.net"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "hostmaster@linkedin.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Host Master",
+  "org": "LinkedIn Corporation",
+  "address": "1000 W. Maude Ave,",
+  "city": "Sunnyvale",
+  "state": "CA",
+  "zipcode": "94085",
+  "country": "US"
+}
